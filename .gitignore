@@ -1,0 +1,11 @@
+Debug/
+ipch/
+x64/
+ThreadTest.sdf
+ThreadTest.VC.db
+ThreadTest/Debug/
+ThreadTest/x64/
+.vs/
+ThreadTest/ThreadTest.aps
+
+
